@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiraagbalu
-- 👀 I’m interested in building software that can improve people's lives!
-- 🌱 I’m currently learning Swift, Unity, Python, R, Java
+- 👀 I’m interested in building software that can improve people's lives! I like trading, cognitive science, and writing
+- 🌱 I’m currently learning Swift, Python, Java, Unity, R
 - 💞️ I’m looking to collaborate on any sort of projects that can help me learn and build something of value
 - 📫 How to reach me: linkedin: https://www.linkedin.com/in/chiraag-balu-b192101ab/
 
